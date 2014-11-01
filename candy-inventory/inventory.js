@@ -15,7 +15,7 @@
  *
  * 1. Read candy bag file into array, split by new lines
  * 2. Iterate candy array, incrementing the count for each candy type
- * 3. Iterate again (is this necessary?), calculating the percentage of each candy type
+ * 3. Iterate candy types, calculating the percentage of each candy type according to the total
  * 4. Display list of candy
  *
  */
